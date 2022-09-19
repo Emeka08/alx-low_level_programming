@@ -1,5 +1,5 @@
-#ifndef _HOLBERTON_H_
-#define _HOLBERTON_H_
+#ifndef Emeka08
+#define Emeka08
 /**
  * print_number- prints a number
  * @n: number to print to character
